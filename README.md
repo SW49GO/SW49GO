@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## 🏆Skills :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,mysql,php,figma,postman,electron,npm,jest,github,mongodb,sqlite,vscode,nodejs&perline=9" />
+  </a>
+</p>
+
+### 🧰 NPM Packages
+- https://www.npmjs.com/settings/sw49go/packages
 <!--
 **SW49GO/SW49GO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
