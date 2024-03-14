@@ -8,7 +8,8 @@
 </p>
 
 ### 🧰 NPM Packages
-- https://www.npmjs.com/settings/sw49go/packages
+#### - A customizable react modal :
+- https://www.npmjs.com/package/modal-react-sw49go
 <!--
 **SW49GO/SW49GO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
