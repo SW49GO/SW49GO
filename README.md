@@ -10,6 +10,8 @@
 ### 🧰 NPM Packages
 #### - A customizable react modal :
 - https://www.npmjs.com/package/modal-react-sw49go
+#### - A customizable react dropdown :
+- https://www.npmjs.com/package/dropdown-react-sw49go
 <!--
 **SW49GO/SW49GO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
