@@ -12,6 +12,7 @@
 - https://www.npmjs.com/package/modal-react-sw49go
 - https://www.npmjs.com/package/dropdown-react-sw49go
 - https://www.npmjs.com/package/datepicker-react-sw49go
+- https://www.npmjs.com/package/table-react-sw49go
 
 
 <!--
